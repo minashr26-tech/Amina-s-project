@@ -22,3 +22,6 @@ to the right datasource for my project and had several open PostgreSQL connectio
 discovered that I was in the incorrect database when I used SELECT current_database(); to
 verify this. After that, I changed my session to the redberry_project database and updated the
 schema. All of my tables displayed once the connection was made correctly, allowing me to finish the SQL analysis both accurately and effectively.
+View full project here: : https://drive.google.com/file/d/1miiZrIOIhwuWJ2KJeRC1f-nfCN0u9eRh/view?usp=share_link
+
+
